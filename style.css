@@ -1,0 +1,51 @@
+.square2{
+    border: 1px solid black;
+    background-color: silver;
+    opacity: .75;
+    height: 250px;
+    width: 250px;
+}
+.square1 {
+        background: rgba(31,59,8,1);
+        opacity: .75;
+        height: 250px;
+        width: 250px;
+}
+
+.square3 {
+    background: rgba(31,59,8,1);
+    opacity: .75;
+    height: 250px;
+    width: 250px;
+}
+
+.container {
+    background-color: ivory;
+    opacity: .5;
+    margin: 5cm;
+    height: 250px;
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}
+
+html{
+    background-image: url(https://scx2.b-cdn.net/gfx/news/hires/2019/2-nature.jpg);
+
+}
+
+#datetime {
+    color: goldenrod;
+
+}
+
+h1 {
+    color: ivory;
+    align-content: ;
+}
+
+username {
+    color: white;
+}
